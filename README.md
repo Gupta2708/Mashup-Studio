@@ -443,7 +443,7 @@ This project is for educational purposes.
 ---
 
 ## 👨‍💻 Author
-Vijayshree vaibhav 
+Vaibhav Gupta (Roll No: 102316130)
 Created as a demonstration of advanced full-stack development with AI integration.
 
 **Key Technologies**: Python, Flask, React, Tailwind CSS, librosa, yt-dlp, pydub
